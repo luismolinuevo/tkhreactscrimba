@@ -1,0 +1,14 @@
+.hey {
+    display: flex;
+    justify-content: center;
+}
+
+.place {
+    display: flex;
+}
+
+.test {
+    /* width: 100%; */
+    /* text-align: center; */
+
+}
